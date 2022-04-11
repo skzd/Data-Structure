@@ -1,7 +1,3 @@
-//
-// Created by 孙克政 on 2022/4/11.
-//
-
 #include <stdio.h>
 #include <cstdlib>
 #include <cstring>
