@@ -1,6 +1,3 @@
-//
-// Created by 孙克政 on 2022/5/8.
-//
 #include <stdio.h>
 #define MaxSize 1000
 #define N 10
